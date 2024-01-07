@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.480fa306.css",
-    "main.js": "/react-gh-pages/static/js/main.81630882.js",
-    "static/js/787.606c4432.chunk.js": "/react-gh-pages/static/js/787.606c4432.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.480fa306.css.map": "/react-gh-pages/static/css/main.480fa306.css.map",
-    "main.81630882.js.map": "/react-gh-pages/static/js/main.81630882.js.map",
-    "787.606c4432.chunk.js.map": "/react-gh-pages/static/js/787.606c4432.chunk.js.map"
+    "main.css": "/exam-portal/static/css/main.480fa306.css",
+    "main.js": "/exam-portal/static/js/main.9f274b30.js",
+    "static/js/787.606c4432.chunk.js": "/exam-portal/static/js/787.606c4432.chunk.js",
+    "index.html": "/exam-portal/index.html",
+    "main.480fa306.css.map": "/exam-portal/static/css/main.480fa306.css.map",
+    "main.9f274b30.js.map": "/exam-portal/static/js/main.9f274b30.js.map",
+    "787.606c4432.chunk.js.map": "/exam-portal/static/js/787.606c4432.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.480fa306.css",
-    "static/js/main.81630882.js"
+    "static/js/main.9f274b30.js"
   ]
 }
